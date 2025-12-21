@@ -41,3 +41,27 @@ Example:
 ```bash
 javac FileName.java
 java FileName
+````
+---
+
+## 🛠 Tech Stack
+
+* Java
+* Collections Framework
+* PriorityQueue
+* HashMap
+* Graph & DP patterns
+
+---
+
+## 🎯 Goal
+
+To strengthen **problem-solving skills**, **pattern recognition**, and
+**Java implementation confidence** for technical interviews.
+
+---
+
+## 👩‍💻 Author
+
+**Anjali Barge**
+GitHub: [https://github.com/AB2511](https://github.com/AB2511)
